@@ -56,3 +56,4 @@ Then configure DNS at your registrar per [GitHub’s custom domain documentation
 
 All asset links are **relative** (`css/styles.css`, `about.html`), so the site works both on GitHub Pages project URLs and at a custom apex domain.
 # Pameru
+# Pameru
